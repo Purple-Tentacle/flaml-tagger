@@ -26,24 +26,11 @@ This is why I came up with the idea of having a file inside the folder of each a
 
 ```
 ./tag.sh 004\ Die\ schwarze\ Katze
-./tag sh "004 Die schwarze Katze"
-./tag sh '004 Die schwarze Katze'
+./tag.sh "004 Die schwarze Katze"
+./tag.sh '004 Die schwarze Katze'
 ```
 
-## coverexport.sh
-
-Run the coverexport.sh, providing the directory with the flac-files
-> [!NOTE]
-> The script tries to export the cover from the first file in the directory
-> Besides checking if a directory was provided, there is no error handling.
-
-### Example
-
-```
-./coverexport.sh dsfkljsdkl
-```
-
-# Errors and exit-codes
+### Errors and exit-codes
 - please provide directory path of files to be tagged
   - exit-code: 1
 - file tags.yaml does not exist in directory [directory]
@@ -56,3 +43,23 @@ Run the coverexport.sh, providing the directory with the flac-files
   - exit-code: 5
 - please provide directory argument without trailing /
   - exit-code: 6
+
+## coverexport.sh
+
+Run the coverexport.sh, providing the directory with the flac-files
+> [!NOTE]
+> The script tries to export the cover from the first file in the directory
+> Besides checking if a directory was provided, there is no error handling.
+
+### Examples
+
+```
+./coverexport.sh 004\ Die\ schwarze\ Katze
+./coverexport.sh "004 Die schwarze Katze"
+./coverexport.sh '004 Die schwarze Katze'
+```
+
+### Errors and exit-codes
+- please provide directory path
+  - exit-code: 1
+
