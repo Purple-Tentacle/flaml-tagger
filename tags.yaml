@@ -1,33 +1,67 @@
 titles:
-  - Ein Hilferuf
-  - Ein Papagei spricht Latein
-  - Schneewittchen ist verschwunden
-  - Ein unverhoffter Besuch
-  - Blackbeard, der Pirat
-  - Die rätselhafte Botschaft
-  - Von Steinen und Gebeinen
-  - Blackbeard hat das letzte Wort
-tracknumbers:
-  - 01
-  - 02
-  - 03
-  - 04
-  - 05
-  - 06
-  - 07
-  - 08
-tracktotal: 08
-album: Der Super-Papagei
-albumnumber: 001
+  0:
+    tracknumber: 01
+    title: Haltet den Dieb 
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  1:
+    tracknumber: 02
+    title: Peter beweist seinen Mut
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  2:
+    tracknumber: 03
+    title: Andy wundert sich
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  3:
+    tracknumber: 04
+    title: Wer sucht eine schwarze Katze
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  4:
+    tracknumber: 05
+    title: Der Mann mit der Tätowierung
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  5:
+    tracknumber: 06
+    title: In der Falle
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  6:
+    tracknumber: 07
+    title: Justus kombiniert
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+  7:
+    tracknumber: 08
+    title: Der Räuber wird entlarvt 
+    artists:
+      - Oliver Rohrbeck
+      - Jens Wawrczeck
+      - Andreas Fröhlich
+album: Die schwarze Katze
+albumnumber: 004
 date: 1979
 discnumber: 1
 disctotal: 1
-description: "Der neueste Auftrag an die drei Detektive hört sich recht harmlos an: sie sollen einen entflogenen Papagei suchen. Doch kaum beginnen sie mit ihren Nachforschungen, da scheinen sich plötzlich noch einige andere Leute sehr für diesen Papagei zu interessieren. Vielleicht deshalb, weil er lateinische Sprüche zitieren kann? Aber bald geht es nicht mehr nur um einen, sondern um sieben Papageien - und alle sieben führen höchst seltsame Reden. Ob da nicht eine geheime Botschaft hintersteckt? Jedenfalls sind auch ein jähzorniger Kunsthändler und ein berüchtigter Meisterdieb hinter den Vögeln her. Die drei ??? müssen sich ganz schön die hellen Köpfe zerbrechen, ehe sie auch diesen abenteuerlichen Fall aufklären und eine wohlverdiente Belohnung einheimsen..."
+description: "In einem kleinen Wanderzirkus wittern die drei jungen Detektive Peter, Bob und Justus ihren neuesten Fall. Denn wenn ein finster aussehender Mann mit Gewalt eine häßliche schwarze Stoffkatze - den Hauptgewinn einer Schießbude - an sich bringen will, sie schließlich stiehlt und am nächsten Tag per Zeitungsanzeige nach weiteren Stoffkatzen fahndet, dann muß irgend etwas dahinter stecken. Außerdem: Wieso trifft den Wanderzirkus seit Wochen ein Unglücksfall nach dem anderen? Und wer ist der Unbekannte mit der auffallenden Tätowierung, der immer wieder im Zirkus auftaucht, aber in brenzligen Momenten spurlos verschwindet? Justus und seine Freunde setzen sich ihm und der gestohlenen Katze auf die Spur und lassen sich beinah auf eine falsche Fährte jagen. Nach aufregenden Fehlschlägen gelingt es ihnen aber schließlich doch, das Geheimnis der schwarzen Katze zu lüften und in letzter Minute einem raffinierten Verbrecher die Maske vom Gesicht zu reißen - im wahrsten Sinne des Wortes..."
 albumartist: Die drei Fragezeichen
 genre: Hörspiel
-artists:
-  - Oliver Rohrbeck
-  - Jens Wawrczeck
-  - Andreas Fröhlich
 organisation: EUROPA
 conductor: Heikedine Körting
