@@ -19,7 +19,7 @@ This is why I came up with the idea of having a file inside the folder of each a
 
 1. Put the tags.yaml file in the directory where the flac-files are
 2. Enter the tag information to the tags.yaml file
-3. Put a cover.png into the directory
+3. Put a cover.png into the directory, or export it using coverexport.sh
 4. Run the tags.sh, providing the directory with the flac-files, **without a trailing /**
 
 ### Examples
