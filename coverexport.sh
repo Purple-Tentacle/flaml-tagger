@@ -4,7 +4,6 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-dir=$1
-files=($dir/*.flac)
-file="${files[0]}"
-metaflac --export-picture-to="$dir/cover.png" "$file"
+file=$(find "$1" -maxdepth 1 -type f | head -n 1)
+echo "$file"
+metaflac --export-picture-to="$1/cover.png" "$file"
